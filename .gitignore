@@ -2,3 +2,4 @@ workTime/bin/
 workTime/obj/
 workTime.Tests/bin/
 workTime.Tests/obj/
+*.nupkg

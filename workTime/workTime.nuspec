@@ -1,5 +1,8 @@
-<?xml version="1.0"?>
-<package >
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+  xmlns="https://raw.githubusercontent.com/NuGet/NuGet.Client/dev/src/NuGet.Core/NuGet.Packaging/compiler/resources/nuspec.xsd"
+-->
+<package>
   <metadata>
     <id>workTime</id>
     <version>1.0.0</version>
@@ -12,30 +15,30 @@
     <iconUrl>https://raw.githubusercontent.com/enig/workTime/master/workTime.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Calculate work time without holidays</description>
-    <releaseNotes>Initial<releaseNotes>
+    <releaseNotes>Initial</releaseNotes>
     <copyright></copyright>
     <tags>worktime work time calculator calculate</tags>
     <dependencies>
-      <group targetFramework="netstandard2.0">
-      </group>
-      <!-- <group targetFramework="net40">
-      </group> -->
+      <!-- <group targetFramework="netstandard2.0" /> -->
+      <!-- <group targetFramework="net40" /> -->
     </dependencies>
     <frameworkAssemblies>
       <!-- <frameworkAssembly assemblyName="System" targetFramework="net40"/> -->
     </frameworkAssemblies>
     <references>
-      <group targetFramework="netstandard2.0">
         <reference file="workTime.dll" />
-      </group>
+      <!-- <group targetFramework="netstandard2.0">
+        <reference file="workTime.dll" />
+      </group> -->
       <!-- <group targetFramework="net40">
         <reference file="workTime.dll" />
       </group> -->
     </references>
   </metadata>
   <files>
-    <!-- <file src="bin\Release\net40\workTime.*" target="lib\net40"/> -->
-    <file src="bin\Release\netstandard2.0\workTime.*" target="lib\netstandard2.0" />
-    <file src="readme.txt" target="">
+    <file src="/bin/Release/netstandard2.0/workTime.dll" target="lib" />
+    <!-- <file src="/bin/Release/netstandard2.0/workTime.dll" target="lib/net40"/> -->
+    <!-- <file src="/bin/Release/netstandard2.0/workTime.dll" target="lib/netstandard2.0" /> -->
+    <file src="readme.txt" target="" />
   </files>
 </package>
