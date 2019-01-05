@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733336"
+   version="1.1"
+   id="svg2839"
+   inkscape:version="0.92.3 (5aff6ba, 2018-11-25)"
+   sodipodi:docname="workTime.svg"
+   inkscape:export-filename="/home/engin/Belgeler/vscode/worktime/workTime/workTime.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2833" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="38.580938"
+     inkscape:cy="166.4787"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1871"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-page="false">
+    <sodipodi:guide
+       position="0,0"
+       orientation="1,0"
+       id="guide4518"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="13.75479,54.24549"
+       orientation="-0.70710678,0.70710678"
+       id="guide4524"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="54.239582,13.725261"
+       orientation="-0.70710678,0.70710678"
+       id="guide4526"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="13.730972,13.79779"
+       orientation="-0.70710678,0.70710678"
+       id="guide4528"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="54.2056,54.272421"
+       orientation="-0.70710678,0.70710678"
+       id="guide4530"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="34.017856,18.993304"
+       orientation="1,0"
+       id="guide4532"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2836">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <rect
+       style="opacity:1;fill:#c8ab37;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25677085;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect4540"
+       width="64.813469"
+       height="64.454391"
+       x="1.7056177"
+       y="1.771755" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-127.68441,-111.40978)"
+     style="opacity:1">
+    <g
+       transform="matrix(1.7303758,0,0,1.7303758,-479.70837,-780.72862)"
+       id="g2448"
+       style="fill:#000000">
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="m 370.656,520.315 c -1.705,0 -3.361,0.368 -4.92,1.092 -2.834,1.317 -4.984,3.658 -6.057,6.592 -1.073,2.934 -0.938,6.111 0.381,8.945 1.908,4.112 6.074,6.77 10.611,6.77 1.705,0 3.363,-0.369 4.922,-1.094 5.85,-2.715 8.396,-9.685 5.678,-15.537 -1.91,-4.11 -6.078,-6.768 -10.615,-6.768 z m 4.592,21.562 c -1.449,0.675 -2.99,1.017 -4.576,1.017 -4.221,0 -8.096,-2.472 -9.869,-6.295 -2.527,-5.439 -0.16,-11.92 5.279,-14.449 1.447,-0.674 2.99,-1.015 4.574,-1.015 1.156,0 2.279,0.2 3.346,0.547 l -2.141,5.866 c -0.385,-0.104 -0.779,-0.176 -1.195,-0.176 -2.561,0 -4.645,2.084 -4.645,4.645 0,2.561 2.084,4.643 4.645,4.643 1.855,0 3.445,-1.102 4.189,-2.678 l 5.867,2.143 c -1.04,2.549 -2.964,4.587 -5.474,5.752 z m -0.76,-9.86 c 0,2.108 -1.715,3.823 -3.822,3.823 -2.109,0 -3.824,-1.715 -3.824,-3.823 0,-2.109 1.715,-3.826 3.824,-3.826 2.107,-10e-4 3.822,1.716 3.822,3.826 z m 6.516,3.339 -5.871,-2.144 c 0.104,-0.384 0.176,-0.78 0.176,-1.196 0,-1.856 -1.1,-3.449 -2.678,-4.193 l 1.28284,-3.51087 0.85616,-2.34313 c 2.494,1.023 4.588,2.937 5.762,5.459 1.165,2.51 1.32,5.309 0.472,7.928 z"
+         id="path2444"
+         sodipodi:nodetypes="scscsccscsccsccssscccssscsccsccccc" />
+      <path
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         d="m 367.295,532.014 c 0,0.226 0.184,0.409 0.41,0.409 0.226,0 0.408,-0.184 0.408,-0.409 0,-1.406 1.146,-2.548 2.553,-2.548 0.225,0 0.41,-0.185 0.41,-0.41 0,-0.227 -0.186,-0.41 -0.41,-0.41 -1.859,0 -3.371,1.51 -3.371,3.368 z"
+         id="path2446" />
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.52916667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4534"
+       width="40.273838"
+       height="7.9049034"
+       x="141.5181"
+       y="164.02855" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.46056795px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16151419"
+       x="161.51442"
+       y="170.50804"
+       id="text4538"><tspan
+         sodipodi:role="line"
+         id="tspan4536"
+         x="161.51442"
+         y="170.50804"
+         style="stroke-width:0.16151419">workTime</tspan></text>
+  </g>
+</svg>
